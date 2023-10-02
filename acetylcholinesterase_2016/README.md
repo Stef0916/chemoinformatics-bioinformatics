@@ -14,6 +14,13 @@ This project focuses on the analysis of potential inhibitors for Acetylcholinest
 - [Conclusions](#conclusions)
 - [References](#references)
 
+In a separate folder named "predictions", you'll find the necessary resources to predict the pIC50 based on the descriptors. Specifically, predictions were made for the first five molecules of the dataset. Inside this folder, you'll discover:
+
+- A notebook detailing every step required for making a prediction.
+- The predict_function.py file, which contains essential function for prediction.
+- The rf_model.pkl file, which is the trained Random Forest model.
+- The required CSV files needed to perform the predictions.
+
 ## Introduction
 
 - **Examining the Project Topic**: An overview of the significance of Acetylcholinesterase in drug discovery.
