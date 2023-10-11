@@ -1,6 +1,6 @@
 # Water Solubility Prediction using Molecular Descriptors
 
-This project focuses on the analysis of potential inhibitors for Acetylcholinesterase, a key enzyme involved in Alzheimer's disease. The analysis puts together data preprocessing, exploratory data analysis, and machine learning model evaluation, with a particular emphasis on the Random Forest algorithm.
+This project aims to compute a robust ML algorithm in order to predict the solubility of molecular architectures. Using Molecular Descriptor from RDKit and ML algorithm a equation for the water solubility was extracted, and prediction performed with a validation dataset.
 
 ## Directory Structure
 
