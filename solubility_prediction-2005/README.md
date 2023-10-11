@@ -51,7 +51,7 @@ Inside this folder, you'll discover:
 
 ## Linear Regression Analysis
 - **Linear Regression Model**: Building and evaluating a Linear Regression model.
-_ **Extracting the equation**: Evaluating the coefficients and interception wrt the original publication.
+- **Extracting the equation**: Evaluating the coefficients and interception wrt the original publication.
 - **Residual Analysis**: Understanding the difference between observed and predicted values.
 
 ## Random Forest Analysis
