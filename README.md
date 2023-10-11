@@ -7,6 +7,7 @@ This repository serves as a central hub for all my chemoinformatics - bioinforma
 Below is a list of the projects available in this repository:
 
 1. [Quantitative Structure-Activity Relationship (QSAR) Modelling of human acetylcholinesterase inhibitors](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/acetylcholinesterase_2016): This project focuses on the analysis of potential inhibitors for Acetylcholinesterase, a key enzyme involved in Alzheimer's disease. The analysis puts together data preprocessing, exploratory data analysis, and machine learning model evaluation, with a particular emphasis on the Random Forest algorithm.
+2. [Water Solubility Prediction using Molecular Descriptors](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/solubility_prediction_2005): This project aims to compute a robust ML algorithm in order to predict the solubility of molecular architectures. Using Molecular Descriptor from RDKit and ML algorithm a equation for the water solubility was extracted, and prediction performed with a validation dataset.
 
 ## Getting Started
 
