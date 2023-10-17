@@ -12,6 +12,7 @@ Below is a list of the projects available in this repository:
     - RDKit basics
     - Fingerprints.
     - Fingerprints applications.
+4. [HOMO-LUMO Energy Gap Prediction](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/HOMO-LUMO-prediction): This project takes inspiration from the 2020 publication ["A Structure-Based Platform for Predicting Chemical Reactivity"](https://www-sciencedirect-com.lama.univ-amu.fr/science/article/pii/S2451929420300851). I employed a range of cheminformatics tools to develop a regression model aimed at predicting the HOMO-LUMO energy gap. I calculated the Avalon fingerprints for the dataset using four distinct nBits values: 512, 1024, 2048, and 4096. These fingerprints served as features to train two regression models: the Random Forest and the LGBMRegressor.
 
 ## Getting Started
 

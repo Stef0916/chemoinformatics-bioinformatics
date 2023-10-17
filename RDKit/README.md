@@ -4,6 +4,16 @@
 
 This repository contains Jupyter notebooks and datasets focused on molecular informatics using RDKit.
 
+## Directory Structure
+
+```
+├── RDKit
+│   ├── Fingerprints-applications.ipynb
+│   ├── Fingerprints.ipynb
+│   ├── RDKit-general
+│   └── README.md
+```
+
 ## Table of Contents
 
 1. [Fingerprints Notebook](#fingerprints-notebook)
