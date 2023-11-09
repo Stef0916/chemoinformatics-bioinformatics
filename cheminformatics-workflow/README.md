@@ -2,6 +2,8 @@
 
 The objective of this repository is to put together the most important step and applications of cheminformatics focused mainly in drug discovery.
 
+This is inspired on the Cheminformatic specialization from [**Neovarsity**](https://neovarsity.org/)
+
 Here is the list of the notebooks and the information explored:
 1. [RDKit generals](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/cheminformatics-workflow/notebooks/1-RDKit-general.ipynb):
     - SMILES representions
