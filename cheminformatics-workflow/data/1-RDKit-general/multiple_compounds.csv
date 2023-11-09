@@ -1,0 +1,15 @@
+ID,Molecule,SMILES,SMARTS
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1380>,C1=CCCC1,[#6]1-[#6]-[#6]-[#6]=[#6]-1
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1460>,CC#CCCC,[#6]-[#6]-[#6]-[#6]#[#6]-[#6]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1540>,CCO,[#6]-[#6]-[#8]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1620>,CC[O-],[#6]-[#6]-[#8-]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1690>,CC[O-].[Na+],[#6]-[#6]-[#8-].[Na+]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1700>,CC=CC(C)=O,[#6]-[#6]=[#6]-[#6](=[#8])-[#6]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1770>,C1CCC2CCCCC2CC1,[#6]12-[#6]-[#6]-[#6]-[#6]-[#6]-1-[#6]-[#6]-[#6]-[#6]-[#6]-2
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf17e0>,C1CCC(C2CCCOC2)CC1,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-1-[#6]1-[#6]-[#6]-[#6]-[#8]-[#6]-1
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1850>,c1ccccc1,[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf18c0>,c1cc[nH]c1,[#6]1:[#6]:[#7H]:[#6]:[#6]:1
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1930>,CC[C@H](C)Br,[#6]-[#6]-[#6@H](-[#6])-[#35]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf19a0>,CC[C@@H](C)Br,[#6]-[#6]-[#6@@H](-[#6])-[#35]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1a10>,CC/C=C/CC,[#6]-[#6]/[#6]=[#6]/[#6]-[#6]
+,<rdkit.Chem.rdchem.Mol object at 0x7d50bedf1a80>,CC/C=C\CC,[#6]-[#6]/[#6]=[#6]\[#6]-[#6]

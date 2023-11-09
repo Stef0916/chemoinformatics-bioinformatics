@@ -1,0 +1,15 @@
+SMILES,Molecule
+C1CCC=C1,<rdkit.Chem.rdchem.Mol object at 0x7d50bf760cf0>
+CCCC#CC,<rdkit.Chem.rdchem.Mol object at 0x7d50bf760f20>
+CCO,<rdkit.Chem.rdchem.Mol object at 0x7d50bf7610e0>
+CC[O-],<rdkit.Chem.rdchem.Mol object at 0x7d50bf761150>
+CC[O-].[Na+],<rdkit.Chem.rdchem.Mol object at 0x7d50bf7611c0>
+CC=CC(=O)C,<rdkit.Chem.rdchem.Mol object at 0x7d50bf761230>
+C12CCCCC1CCCCC2,<rdkit.Chem.rdchem.Mol object at 0x7d50bf7612a0>
+C1CCCCC1C1CCCOC1,<rdkit.Chem.rdchem.Mol object at 0x7d50bf761310>
+c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7d50bf761380>
+c1c[nH]cc1,<rdkit.Chem.rdchem.Mol object at 0x7d50bf7613f0>
+CC[C@H](C)(Br),<rdkit.Chem.rdchem.Mol object at 0x7d50bf761460>
+CC[C@@H](C)(Br),<rdkit.Chem.rdchem.Mol object at 0x7d50bf7614d0>
+CC/C=C/CC,<rdkit.Chem.rdchem.Mol object at 0x7d50bf761540>
+CC/C=C\CC,<rdkit.Chem.rdchem.Mol object at 0x7d50bf7615b0>
