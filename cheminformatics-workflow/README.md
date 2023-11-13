@@ -63,6 +63,11 @@ Here is the list of the notebooks and the information explored:
     - RDKit Fingerprints
 10. [Fingerprints applications project](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/cheminformatics-workflow/notebooks/10-Fingerprints-applications.ipynb): This project is intented to apply fingerprints in order to compute molecular similarities and clustering within a dataset taken from the literature.
 11. [Hydrogen bond donor descriptor project](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/cheminformatics-workflow/notebooks/11-Hydrogen_bond_donor-descriptor.ipynb): The project focused in the creation of a Python code to calculate a molecular descriptor that represents the capacity of the molecule to be a halogen bond donor. Use the code to calculate the halogen bond description for the given dataset. And finally, filter out compounds that do not have the halogen bond.
+12. [Activity Cliff](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/cheminformatics-workflow/notebooks/12-Activity_cliff.ipynb): This project aims to study the the Structure-Activity Landscape Index (SALI) which is used to understand the relationship between the structural similarity of compounds and their biological activities, helping to identify activity cliffs.
+13. [Clustering](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/cheminformatics-workflow/notebooks/13-Clustering.ipynb): Here, I review two clustering algorithm:
+    - K-means
+    - Taylor - Butina
+14. [Chemical Reaction](https://github.com/Stef0916/chemoinformatics-bioinformatics/tree/main/cheminformatics-workflow/notebooks/14-Chemical_reaction.ipynb): I reviewed the basic of chemical reaction using SMARTS.
 
 ## Directory Structure
 
