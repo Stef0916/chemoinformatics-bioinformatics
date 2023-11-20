@@ -1,4 +1,4 @@
-# Cheminformatics WorkFlor
+# Cheminformatics WorkFlow
 
 The objective of this repository is to put together the most important step and applications of cheminformatics focused mainly in drug discovery.
 
